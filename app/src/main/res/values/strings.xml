@@ -1,0 +1,9 @@
+<resources>
+
+    <!-- APP TITLE -->
+    <string name="app_name">The Answer Is</string>
+
+    <!--others-->
+    <string name="your_score_is">Your total score is . . .</string>
+
+</resources>
